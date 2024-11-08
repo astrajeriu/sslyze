@@ -99,7 +99,7 @@ setup(
     # Dependencies
     install_requires=[
         "nassl>=5.1,<6",
-        "cryptography>42,<43",
+        "cryptography>43,<44",
         "tls-parser>=2,<3",
         "pydantic>=2.2,<2.7",
     ],
